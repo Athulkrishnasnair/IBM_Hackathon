@@ -1,6 +1,3 @@
-# Plutii
-
-A full-stack notes application built while learning modern web development and backend architecture
 
 ## Tech Stack
 
